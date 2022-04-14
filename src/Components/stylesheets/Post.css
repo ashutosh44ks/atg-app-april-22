@@ -1,0 +1,47 @@
+.cardImg {
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  height: 40vh;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.cardType {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+}
+.cardTitle {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 134.55%;
+  display: flex;
+  justify-content: space-between;
+}
+.cardContent {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 134.17%;
+  color: #5c5c5c;
+}
+.cardFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.author {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+}
+.view {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+}
+.btn-block {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 140.4%;
+  border: 0.7px solid rgba(169, 174, 184, 1);
+}
