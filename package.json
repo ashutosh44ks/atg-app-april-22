@@ -1,7 +1,7 @@
 {
-  "name": "atg-app-april-22",
+  "name": "social-media-site",
   "version": "0.1.0",
-  "homepage": "https://ashutosh44ks.github.io/atg-app-april-22",
+  "homepage": "https://ashutosh44ks.github.io/social-media-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
