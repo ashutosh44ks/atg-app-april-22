@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/atg-app-april-22/static/css/main.7c105e96.css",
-    "main.js": "/atg-app-april-22/static/js/main.6c7c9a1c.js",
-    "static/js/787.2aefb70e.chunk.js": "/atg-app-april-22/static/js/787.2aefb70e.chunk.js",
-    "static/media/cs-banner.png": "/atg-app-april-22/static/media/cs-banner.0b2dfdb7b4c4c85a7e99.png",
-    "static/media/modal.png": "/atg-app-april-22/static/media/modal.e43c20c0bb459e5530b8.png",
-    "index.html": "/atg-app-april-22/index.html",
-    "main.7c105e96.css.map": "/atg-app-april-22/static/css/main.7c105e96.css.map",
-    "main.6c7c9a1c.js.map": "/atg-app-april-22/static/js/main.6c7c9a1c.js.map",
-    "787.2aefb70e.chunk.js.map": "/atg-app-april-22/static/js/787.2aefb70e.chunk.js.map"
+    "main.css": "/social-media-site/static/css/main.9857ce33.css",
+    "main.js": "/social-media-site/static/js/main.8f09bcf7.js",
+    "static/js/787.5ab39eee.chunk.js": "/social-media-site/static/js/787.5ab39eee.chunk.js",
+    "static/media/cs-banner.png": "/social-media-site/static/media/cs-banner.0b2dfdb7b4c4c85a7e99.png",
+    "static/media/modal.png": "/social-media-site/static/media/modal.e43c20c0bb459e5530b8.png",
+    "index.html": "/social-media-site/index.html",
+    "main.9857ce33.css.map": "/social-media-site/static/css/main.9857ce33.css.map",
+    "main.8f09bcf7.js.map": "/social-media-site/static/js/main.8f09bcf7.js.map",
+    "787.5ab39eee.chunk.js.map": "/social-media-site/static/js/787.5ab39eee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c105e96.css",
-    "static/js/main.6c7c9a1c.js"
+    "static/css/main.9857ce33.css",
+    "static/js/main.8f09bcf7.js"
   ]
 }
