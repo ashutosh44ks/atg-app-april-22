@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 #navbar {
   position: fixed;
   z-index: 5;
@@ -9,10 +11,10 @@
   box-shadow: 0px 1px 2px 0px #0000001f;
 }
 #brand {
-  background-image: url("../media/logo.png");
-  background-repeat: no-repeat;
-  height: 25px;
-  width: 165px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #0d6efd;
 }
 #search-bar {
   border-radius: 21px;

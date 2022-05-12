@@ -1,11 +1,11 @@
 import "./stylesheets/GroupHead.css";
 import { BsArrowLeft } from "react-icons/bs";
-const GroupHead = () => {
+const GroupHead = ({name, pronoun}) => {
   return (
     <div className="grp-head">
       <BsArrowLeft className="grp-head-back-btn" />
-      <div className="grp-title">Computer Engineering</div>
-      <div className="grp-info">142,765 Computer Engineers follow this</div>
+      <div className="grp-title">{name}</div>
+    <div className="grp-info">{Math.floor(Math.random()*10000)} {pronoun} follow this</div>
     </div>
   );
 };

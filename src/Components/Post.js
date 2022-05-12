@@ -10,7 +10,7 @@ const PostNormal = ({ post }) => {
         <div
           className="cardImg"
           style={{
-            backgroundImage: `url('./postData/article${post.id}.png')`,
+            backgroundImage: `url(${process.env.PUBLIC_URL}/postData/article${post.id}.png)`,
           }}
         ></div>
         <CardBody>
@@ -24,7 +24,7 @@ const PostNormal = ({ post }) => {
               <div className="author">
                 <img
                   className="me-2"
-                  src={`./postData/author${post.id}.png`}
+                  src={`${process.env.PUBLIC_URL}/postData/author${post.id}.png`}
                   alt="author-pic"
                 />
                 {post.author}
@@ -51,7 +51,7 @@ const PostNormal = ({ post }) => {
           <div
             className="cardImg"
             style={{
-              backgroundImage: `url('./postData/article${post.id}.png')`,
+              backgroundImage: `url(${process.env.PUBLIC_URL}/postData/article${post.id}.png)`,
             }}
           ></div>
         ) : (
@@ -75,7 +75,7 @@ const PostNormal = ({ post }) => {
               <div className="author">
                 <img
                   className="me-2"
-                  src={`./postData/author${post.id}.png`}
+                  src={`${process.env.PUBLIC_URL}/postData/author${post.id}.png`}
                   alt="author-pic"
                 />
                 {post.author}

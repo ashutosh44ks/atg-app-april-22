@@ -3,10 +3,10 @@ import { MdArrowDropDown } from "react-icons/md";
 const Header = ({ open, setOpen }) => {
   return (
     <div id="navbar" className="p-3">
-      <div id="brand"></div>
+      <div id="brand">Social Media Site</div>
       <input
         name="search"
-        placeholder="🔎 Search for your favorite groups in ATG"
+        placeholder="🔎    Search for your favorite groups"
         id="search-bar"
         className="pe-4 ps-3 py-1"
       />
